@@ -1,4 +1,4 @@
-## Canvas 태그 활용한 다양한 작업
+## Canvas 활용한 다양한 작업
 
 ### 1. gooey 효과를 반영한 파티클 생성 
 설명 : https://sol-mi.tistory.com/84
